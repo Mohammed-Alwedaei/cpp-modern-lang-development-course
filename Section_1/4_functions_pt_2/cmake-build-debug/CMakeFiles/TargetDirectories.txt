@@ -1,0 +1,3 @@
+A:/Courses/modern_cpp_development/Section_1/4_functions_pt_2/cmake-build-debug/CMakeFiles/4_functions_pt_2.dir
+A:/Courses/modern_cpp_development/Section_1/4_functions_pt_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/Courses/modern_cpp_development/Section_1/4_functions_pt_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
